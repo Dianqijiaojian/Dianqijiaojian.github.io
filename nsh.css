@@ -1,0 +1,114 @@
+#header{
+    width:980px;
+    margin:0 auto;
+    background-color: pink;
+}
+.box1{
+    width: 980px;
+    display: flex;
+}
+.box2{
+    width:300px;
+    float:left;
+}
+.box3{
+    width:180px;
+    height:30px;
+    margin-left:auto;
+    margin-right:20px;
+    margin-top:20px;
+    padding:10px;
+    text-align: center;
+    line-height:30px;
+    background-color: antiquewhite;
+}
+
+/*  *//*  *//*  */
+
+#daohang{
+    width:980px;
+    margin: 0 auto;
+}
+.box4{
+    width: 980px;
+    margin:0 auto;
+}
+.box5{
+    width:980px;
+    height:50px;
+    margin:0 auto;
+    background-color: aqua;
+}
+
+.box5 ul li{
+    list-style-type: none;
+    float:left;
+    line-height: 50px;
+    margin:0 50px;
+    text-align: center;
+    padding:0;
+}
+
+/*  *//*  *//*  */
+
+#main{
+    width:980px;
+    height:100%;
+    margin:0 auto;
+}
+.box6{
+    width:980px;
+    margin:0 auto;
+    padding:0;
+}
+
+/*  *//*  *//*  */
+
+#footer{
+    width:980px;
+    height:400px;
+    margin:0 auto;
+    background-image: url(nsh.img/content_bg.jpg);
+    background-repeat:repeat;
+}
+
+.box7{
+    width:980px;
+    margin:0 auto;
+    padding:0 ;
+}
+.box7 h2{
+    text-align: center;
+    margin-top: 10px;
+}
+.box8{
+    width: 980px;
+    height: 100px;
+    display: flex;
+}
+.box9{
+    width:100px;
+    height: 100px;
+    border-radius: 50%;
+    overflow:hidden;
+}
+.box10{
+    width:980px;
+    height: 100px;
+    float:left;
+    margin-left:20px;
+}
+
+/*  *//*  *//*  */
+
+#ender{
+    width:980px;
+    height:150px;
+    margin:0 auto;
+    background-color: darksalmon;
+}
+#ender div p{
+    font-family:楷体;
+    line-height:150px;
+    text-align: center;
+}
